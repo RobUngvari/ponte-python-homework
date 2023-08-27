@@ -47,3 +47,7 @@ Miután feltöltötted a kódod a master ágra, küldd el a repository linkjét 
 Fontos, hogy figyelj oda a Git commitokra, mivel ezeket is értékelni fogjuk.
 
 Sok sikert és kellemes kódolást!
+
+## Notes
+
+``` uvicorn main:app --reload
